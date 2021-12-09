@@ -12,13 +12,13 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="{{page.excerpt}}" />
 <meta property="og:description" content="{{page.excerpt}}" />
-<link rel="canonical" href="{{page.url}}" />
-<meta property="og:url" content="{{page.url}}" />
+<link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{page.url}}" />
+<meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{page.url}}" />
 <meta property="og:site_name" content="{{site.title}}" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="{{page.title - Botpedia test}}" />
 <script type="application/ld+json">
-{"description":"{{page.description}}","url":"{{page.url}}","@type":"WebPage","headline":"{{page.title}}","@context":"https://schema.org"}</script>
+{"description":"{{page.description}}","url":"{{ site.url }}{{ site.baseurl }}{{page.url}}","@type":"WebPage","headline":"{{page.title}}","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/jktest/assets/css/style.css?v=cf56747e20c372760b23189e10db18236bea9f91">

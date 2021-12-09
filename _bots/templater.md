@@ -18,19 +18,23 @@ description: template helper page
 ## Abilities
 
 - **Ground Slam**
+- 
 	Strikes the ground creating a shockwave that damages nearby enemies
+	
 	`100% Attack, AS: 0.9s, Range: 2`		
 		
 
 - **Chain**
 	
 	Launches a magnetized chain at an enemy and pulls them towards the Chainer
+	
 	`Range: 3-6, Cooldown: 6s`		
 		
 
 - **Multi-chain**
 
-	Spins around firing chains at all visible enemies then pulls them all in together	
+	Spins around firing chains at all visible enemies then pulls them all in together
+	
 	`Range: 12, Cooldown: 10s`
 		
 ## AI tree

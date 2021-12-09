@@ -26,7 +26,7 @@ layout: default
 	  </tbody>
 	</table>
 
-	<h1 id="abilities">Abilities</h1>
+	<h2 id="abilities">Abilities</h2>
 
 	<ul>
 	  <li>
@@ -49,7 +49,7 @@ layout: default
 	  </li>
 	</ul>
 
-	<h1 id="ai-tree">AI tree</h1>
+	<h2 id="ai-tree">AI tree</h2>
 
 	<ul>
 	  <li>
@@ -145,7 +145,7 @@ layout: default
 	  </li>
 	</ul>
 
-	<h1 id="stats">Stats</h1>
+	<h2 id="stats">Stats</h2>
 
 	<table>
 	  <thead>
@@ -160,36 +160,36 @@ layout: default
 	  <tbody>
 	    <tr>
 	      <td>Lvl 1</td>
-	      <td> </td>
-	      <td> </td>
-	      <td> </td>
-	      <td> </td>
+	      <td>{{page.lvl1Hp}}</td>
+	      <td>{{page.lvl1Dmg}}</td>
+	      <td>{{page.lvl1Dps}}</td>
+	      <td>{{page.lvl1Speed}}</td>
 	    </tr>
 	    <tr>
 	      <td>Lvl 10</td>
-	      <td>4009</td>
-	      <td>108</td>
-	      <td>121</td>
-	      <td>12</td>
+	      <td>{{page.lvl10Hp}}</td>
+	      <td>{{page.lvl10Dmg}}</td>
+	      <td>{{page.lvl10Dps}}</td>
+	      <td>{{page.lvl1Speed}}</td>
 	    </tr>
 	    <tr>
 	      <td>Lvl 20</td>
-	      <td> </td>
-	      <td> </td>
-	      <td> </td>
-	      <td> </td>
+	      <td>{{page.lvl20Hp}}</td>
+	      <td>{{page.lvl20Dmg}}</td>
+	      <td>{{page.lvl20Dps}}</td>
+	      <td>{{page.lvl1Speed}}</td>
 	    </tr>
 	    <tr>
 	      <td>Lvl 25</td>
-	      <td>16745</td>
-	      <td>453</td>
-	      <td>503</td>
-	      <td>12</td>
+	      <td>{{page.lvl25Hp}}</td>
+	      <td>{{page.lvl25Dmg}}</td>
+	      <td>{{page.lvl25Dps}}</td>
+	      <td>{{page.lvl1Speed}}</td>
 	    </tr>
 	  </tbody>
 	</table>
 
-	<h1 id="upgrades">Upgrades</h1>
+	<h2 id="upgrades">Upgrades</h2>
 
 	<table>
 	  <thead>
@@ -204,15 +204,17 @@ layout: default
 	  </thead>
 	  <tbody>
 	    <tr>
-	      <td>Chainer Essence</td>
-	      <td>Tank plating</td>
-	      <td> </td>
-	      <td> </td>
-	      <td> </td>
-	      <td>?</td>
+	      <td>{{page.epicMat}}</td>
+	      <td>{{page.rareMat}}</td>
+	      <td>{{page.specialMat}}</td>
+	      <td>{{page.commonMat1}} </td>
+	      <td>{{page.commonMat2}} </td>
+	      <td>{{page.commonMat3}}</td>
 	    </tr>
 	  </tbody>
 	</table>
+
+	<h2 id="tips">Tips</h2>
 
 	{{content}}
 </div>

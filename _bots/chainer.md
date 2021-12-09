@@ -25,29 +25,6 @@ ability3Info: "Range: 12, Cooldown: 10s"
 ability3Description: Spins around firing chains at all visible enemies then pulls them all in together
 
 ai1aName: "A: Stunning Chain"
-ai1bName: "B: Stunning Multi-chain"
-ai1aDescription: Chain stuns enemy for 2s
-ai1bDescription: Multi-chain stuns enemies for 2s
-
-ai2aName: "A: Chain Efficiency"
-ai2bName: "B: Multi-chain Efficiency" 
-ai2aDescription: Chain cooldown reduced by 25%
-ai2bDescription: Multi-chain cooldown reduced by 20%
-		
-ai3aName: "C: Fortitude"
-ai3bName: a
-ai3aDescription: Health increased by 20%
-ai3bDescription: a
-	
-ai4aName: "A: Power Slam"
-ai4bName: "B: Shockwave"
-ai4aDescription: Ground slam damage increased by 20%
-ai4bDescription: Ground slam damage area increased by 20%
-	
-ai5aName: "A: Disorienting Shockwave"
-ai5bName: "B: Ready to Chain"       
-ai5aDescription: Ground slam slows enemies by 30%
-ai5bDescription: Multi-chain starts at 50% charged
 
 ---
 
@@ -56,4 +33,4 @@ ai5bDescription: Multi-chain starts at 50% charged
 - Place chainer in the middle of most bots where his ult will grab all/the most bots possible. 
 - Place your choice of an AOE bot in range of chainer but farther away so it does not run away or get hurt. 
 - Charge your AOE bot’s ult and then watch the bots melt.
-
+v.half

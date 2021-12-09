@@ -25,6 +25,9 @@ ability3Info: "Range: 12, Cooldown: 10s"
 ability3Description: Spins around firing chains at all visible enemies then pulls them all in together
 
 ai1aName: "A: Stunning Chain"
+ai1bName: "B: Stunning Multi-chain"
+ai1aDescription: Chain stuns enemy for 2s
+ai1bDescription: Multi-chain stuns enemies for 2s
 
 ---
 
@@ -33,4 +36,5 @@ ai1aName: "A: Stunning Chain"
 - Place chainer in the middle of most bots where his ult will grab all/the most bots possible. 
 - Place your choice of an AOE bot in range of chainer but farther away so it does not run away or get hurt. 
 - Charge your AOE bot’s ult and then watch the bots melt.
-v.half
+
+v.half2

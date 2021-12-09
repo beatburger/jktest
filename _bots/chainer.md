@@ -20,13 +20,15 @@ description: Chainer descriptioognfdnf fsgdufhdusfhuds
 - Ground Slam
 
 	`100% Attack, AS: 0.9s, Range: 2`
+	
 	Strikes the ground creating a shockwave that damages nearby enemies		
 		
 
 - Chain
+	
+	Launches a magnetized chain at an enemy and pulls them towards the Chainer
 
-	`Range: 3-6, Cooldown: 6s`
-	Launches a magnetized chain at an enemy and pulls them towards the Chainer		
+	`Range: 3-6, Cooldown: 6s`		
 		
 
 - Multi-chain

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Chainer page
-name: Chainer name
-description: Chainer descriptioognfdnf fsgdufhdusfhuds
+title: template helper
+name: template helper
+description: template helper page
 ---
 
-# Chainer
+# Templater
 
 `Not the most mobile bot, but that doesn't matter when it can bring the fight to itself.`
 
@@ -15,26 +15,25 @@ description: Chainer descriptioognfdnf fsgdufhdusfhuds
 | ----- | ------ | ----------------- | 
 | Tank  | Rare   | Solo Arena r1000  |
 
-# Abilities
+## Abilities
 
-- **Ground Slam**: Strikes the ground creating a shockwave that damages nearby enemies
-
+- **Ground Slam**
+	Strikes the ground creating a shockwave that damages nearby enemies
 	`100% Attack, AS: 0.9s, Range: 2`		
 		
 
-- Chain
+- **Chain**
 	
 	Launches a magnetized chain at an enemy and pulls them towards the Chainer
-
 	`Range: 3-6, Cooldown: 6s`		
 		
 
-- Multi-chain
+- **Multi-chain**
 
 	Spins around firing chains at all visible enemies then pulls them all in together	
 	`Range: 12, Cooldown: 10s`
 		
-# AI tree
+## AI tree
 
 - AI Level 1 (500xp)
 
@@ -67,7 +66,7 @@ description: Chainer descriptioognfdnf fsgdufhdusfhuds
 	| Ground slam slows enemies by 30%  | Multi-chain starts at 50% charged |
 
 
-# Stats 
+## Stats 
 
 | Stats  | Health | Attack | DPS | Speed |
 | ------ | ------ | ------ | --- | ----- |
@@ -77,14 +76,14 @@ description: Chainer descriptioognfdnf fsgdufhdusfhuds
 | Lvl 25 | 16745 | 453 | 503 | 12 |
 
 
-# Upgrades
+## Upgrades
 
 | Epic            | Rare         | Special | Common 1 | Common 2 | Common 3 |
 | --------------- | ------------ | ------- | -------- | -------- | -------- |
 | Chainer Essence | Tank plating |   |  |  | ? |
 
 
-# Groovy Tips
+### Groovy Tips
 
 - Place chainer in the middle of most bots where his ult will grab all/the most bots possible. 
 - Place your choice of an AOE bot in range of chainer but farther away so it does not run away or get hurt. 

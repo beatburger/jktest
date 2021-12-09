@@ -1,8 +1,10 @@
 ## Welcome to GitHub Pages
 
 {% for bot in site.bots %}
-  <h2>{{ bot.name }}</h2>
+  <h2><a href="{{ bot.url }}"> {{ bot.name }} </a></h2>
 {% endfor %}
+
+
 
 You can use the [editor on GitHub](https://github.com/beatburger/jktest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

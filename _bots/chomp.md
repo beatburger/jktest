@@ -11,6 +11,18 @@ botType: Tank
 botRarity: Rare
 botAcquisition: Solo Arena r1000
 
+ability1Name: Ground Slam
+ability1Info: "100% Attack, AS: 0.9s, Range: 2"
+ability1Description: Strikes the ground creating a shockwave that damages nearby enemies
+
+ability2Name: Chain
+ability2Info: "Range: 3-6, Cooldown: 6s"
+ability2Description: Launches a magnetized chain at an enemy and pulls them towards the Chainer
+
+ability3Name: Multi-chain
+ability3Info: "Range: 12, Cooldown: 10s"
+ability3Description: Spins around firing chains at all visible enemies then pulls them all in together
+
 ---
 
 ### Groovy

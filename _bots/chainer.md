@@ -35,14 +35,14 @@ ai2aDescription: Chain cooldown reduced by 25%
 ai2bDescription: Multi-chain cooldown reduced by 20%
 
 ai3aName: "C: Fortitude"
-ai3bName: Health increased by 20%
-ai3aDescription: 
+ai3bName: 
+ai3aDescription: Health increased by 20%
 ai3bDescription: 
 
-ai4aName: wtf4A
-ai4bName: wtf4B
-ai4aDescription: WTF4A
-ai4bDescription: WTF4B
+ai4aName: "A: Power Slam"
+ai4bName: "B: Shockwave"
+ai4aDescription: Ground slam damage increased by 20%
+ai4bDescription: Ground slam damage area increased by 20%
 
 ai5aName: wtf5A
 ai5bName: wtf5B
@@ -81,4 +81,4 @@ commonMat3:
 - Place your choice of an AOE bot in range of chainer but farther away so it does not run away or get hurt. 
 - Charge your AOE bot’s ult and then watch the bots melt.
 
-v.w3label-null
+v.w4

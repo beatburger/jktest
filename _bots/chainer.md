@@ -33,17 +33,29 @@ ai2aName: "A: Chain Efficiency"
 ai2bName: "B: Multi-chain Efficiency" 
 ai2aDescription: Chain cooldown reduced by 25%
 ai2bDescription: Multi-chain cooldown reduced by 20%
+lvl1Hp: a-
+lvl1Dmg: a-
+lvl1Dps: a-
+lvl1Speed: 12
 
+lvl10Hp: 4009
+lvl10Dmg: 108
+lvl10Dps: 121
 
-ai4aName: "A: Power Slam"
-ai4bName: "B: Shockwave"
-ai4aDescription: Ground slam damage increased by 20%
-ai4bDescription: Ground slam damage area increased by 20%
-	
-ai5aName: "A: Disorienting Shockwave"
-ai5bName: "B: Ready to Chain"       
-ai5aDescription: Ground slam slows enemies by 30%
-ai5bDescription: Multi-chain starts at 50% charged
+lvl20Hp: a
+lvl20Dmg: a
+lvl20Dps: a
+
+lvl25Hp: 16745
+lvl25Dmg: 453
+lvl25Dps: 503
+
+epicMat: Chainer Essence
+rareMat: Tank Plating
+specialMat: a
+commonMat1: a
+commonMat2: a
+commonMat3: a
 
 ---
 
@@ -53,4 +65,4 @@ ai5bDescription: Multi-chain starts at 50% charged
 - Place your choice of an AOE bot in range of chainer but farther away so it does not run away or get hurt. 
 - Charge your AOE bot’s ult and then watch the bots melt.
 
-v.-3
+v.rest

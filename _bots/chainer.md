@@ -1,7 +1,7 @@
 ---
 layout: bot
-title: Chomp Page
-name: Chomp Name
+title: Chainer Page
+name: Chainer Name
 description: a page about Chainer
 
 botName: Chainer
@@ -23,6 +23,8 @@ ability2Description: Launches a magnetized chain at an enemy and pulls them towa
 ability3Name: Multi-chain
 ability3Info: "Range: 12, Cooldown: 10s"
 ability3Description: Spins around firing chains at all visible enemies then pulls them all in together
+
+
 ---
 
 ### Groovy

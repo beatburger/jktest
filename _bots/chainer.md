@@ -30,24 +30,24 @@ ai1aDescription: Chain stuns enemy for 2s
 ai1bDescription: Multi-chain stuns enemies for 2s
 
 ai2aName: "A: Chain Efficiency"
-ai2bName: "B: Multi-chain Efficiency " 
+ai2bName: "B: Multi-chain Efficiency" 
 ai2aDescription: Chain cooldown reduced by 25%
 ai2bDescription: Multi-chain cooldown reduced by 20%
 		
 ai3aName: "C: Fortitude"
-ai3aDescription: Health increased by 20%
 ai3bName: a
+ai3aDescription: Health increased by 20%
 ai3bDescription: a
 	
 ai4aName: "A: Power Slam"
 ai4bName: "B: Shockwave"
 ai4aDescription: Ground slam damage increased by 20%
-ai4aDescription: Ground slam damage area increased by 20%
+ai4bDescription: Ground slam damage area increased by 20%
 	
 ai5aName: "A: Disorienting Shockwave"
 ai5bName: "B: Ready to Chain"       
 ai5aDescription: Ground slam slows enemies by 30%
-ai5aDescription: Multi-chain starts at 50% charged
+ai5bDescription: Multi-chain starts at 50% charged
 
 ---
 

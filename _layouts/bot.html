@@ -2,11 +2,214 @@
 layout: default
 ---
 
-<article class="post">
-  <h1>{{ page.name }}</h1>
+<div class="bot-infos">
+	<h1 id="chainer">{{page.botName}}</h1>
 
-  <div class="entry">
-    {{ content }}
-  </div>
+	<p><code class="language-plaintext highlighter-rouge">{{page.botDescription}}</code></p>
 
-</article>
+	<p><img src="{{page.botImageUrl}}" alt="Image of {{page.botName}} bot" title="Image of {{page.botName}} bot"/></p>
+
+	<table>
+	  <thead>
+	    <tr>
+	      <th>Type</th>
+	      <th>Rarity</th>
+	      <th>Acquisition</th>
+	    </tr>
+	  </thead>
+	  <tbody>
+	    <tr>
+	      <td>{{page.botType}}</td>
+	      <td>{{page.botRarity}}</td>
+	      <td>{{page.botAcquisition}}</td>
+	    </tr>
+	  </tbody>
+	</table>
+
+	<h1 id="abilities">Abilities</h1>
+
+	<ul>
+	  <li>
+	    <p>Ground Slam</p>
+
+	    <p><code class="language-plaintext highlighter-rouge">100% Attack, AS: 0.9s, Range: 2</code>
+	  Strikes the ground creating a shockwave that damages nearby enemies</p>
+	  </li>
+	  <li>
+	    <p>Chain</p>
+
+	    <p><code class="language-plaintext highlighter-rouge">Range: 3-6, Cooldown: 6s</code>
+	  Launches a magnetized chain at an enemy and pulls them towards the Chainer</p>
+	  </li>
+	  <li>
+	    <p>Multi-chain</p>
+
+	    <p><code class="language-plaintext highlighter-rouge">Range: 12, Cooldown: 10s</code>
+	  Spins around firing chains at all visible enemies then pulls them all in together</p>
+	  </li>
+	</ul>
+
+	<h1 id="ai-tree">AI tree</h1>
+
+	<ul>
+	  <li>
+	    <p>AI Level 1 (500xp)</p>
+
+	    <table>
+	      <thead>
+	        <tr>
+	          <th>A: Stunning Chain</th>
+	          <th>B: Stunning Multi-chain</th>
+	        </tr>
+	      </thead>
+	      <tbody>
+	        <tr>
+	          <td>Chain stuns enemy for 2s</td>
+	          <td>Multi-chain stuns enemies for 2s</td>
+	        </tr>
+	      </tbody>
+	    </table>
+	  </li>
+	  <li>
+	    <p>AI Level 2 (2000xp)</p>
+
+	    <table>
+	      <thead>
+	        <tr>
+	          <th>A: Chain Efficiency</th>
+	          <th>B: Multi-chain Efficiency</th>
+	        </tr>
+	      </thead>
+	      <tbody>
+	        <tr>
+	          <td>Chain cooldown reduced by 25%</td>
+	          <td>Multi-chain cooldown reduced by 20%</td>
+	        </tr>
+	      </tbody>
+	    </table>
+	  </li>
+	  <li>
+	    <p>AI Level 3 (5000xp)</p>
+
+	    <table>
+	      <thead>
+	        <tr>
+	          <th>C: Fortitude</th>
+	        </tr>
+	      </thead>
+	      <tbody>
+	        <tr>
+	          <td>Health increased by 20%</td>
+	        </tr>
+	      </tbody>
+	    </table>
+	  </li>
+	  <li>
+	    <p>AI Level 4 (10000xp)</p>
+
+	    <table>
+	      <thead>
+	        <tr>
+	          <th>A: Power Slam</th>
+	          <th>B: Shockwave</th>
+	        </tr>
+	      </thead>
+	      <tbody>
+	        <tr>
+	          <td>Ground slam damage increased by 20%</td>
+	          <td>Ground slam damage area increased by 20%</td>
+	        </tr>
+	      </tbody>
+	    </table>
+	  </li>
+	  <li>
+	    <p>AI Level 5 (20000xp)</p>
+
+	    <table>
+	      <thead>
+	        <tr>
+	          <th>A: Disorienting Shockwave</th>
+	          <th>B: Ready to Chain</th>
+	        </tr>
+	      </thead>
+	      <tbody>
+	        <tr>
+	          <td>Ground slam slows enemies by 30%</td>
+	          <td>Multi-chain starts at 50% charged</td>
+	        </tr>
+	      </tbody>
+	    </table>
+	  </li>
+	</ul>
+
+	<h1 id="stats">Stats</h1>
+
+	<table>
+	  <thead>
+	    <tr>
+	      <th>Stats</th>
+	      <th>Health</th>
+	      <th>Attack</th>
+	      <th>DPS</th>
+	      <th>Speed</th>
+	    </tr>
+	  </thead>
+	  <tbody>
+	    <tr>
+	      <td>Lvl 1</td>
+	      <td> </td>
+	      <td> </td>
+	      <td> </td>
+	      <td> </td>
+	    </tr>
+	    <tr>
+	      <td>Lvl 10</td>
+	      <td>4009</td>
+	      <td>108</td>
+	      <td>121</td>
+	      <td>12</td>
+	    </tr>
+	    <tr>
+	      <td>Lvl 20</td>
+	      <td> </td>
+	      <td> </td>
+	      <td> </td>
+	      <td> </td>
+	    </tr>
+	    <tr>
+	      <td>Lvl 25</td>
+	      <td>16745</td>
+	      <td>453</td>
+	      <td>503</td>
+	      <td>12</td>
+	    </tr>
+	  </tbody>
+	</table>
+
+	<h1 id="upgrades">Upgrades</h1>
+
+	<table>
+	  <thead>
+	    <tr>
+	      <th>Epic</th>
+	      <th>Rare</th>
+	      <th>Special</th>
+	      <th>Common 1</th>
+	      <th>Common 2</th>
+	      <th>Common 3</th>
+	    </tr>
+	  </thead>
+	  <tbody>
+	    <tr>
+	      <td>Chainer Essence</td>
+	      <td>Tank plating</td>
+	      <td> </td>
+	      <td> </td>
+	      <td> </td>
+	      <td>?</td>
+	    </tr>
+	  </tbody>
+	</table>
+
+	{{content}}
+</div>

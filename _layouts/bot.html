@@ -30,22 +30,19 @@ layout: default
 
 	<ul>
 	  <li>
-	    <p>{{page.ability1Name}}</p>
-
-	    <p><code class="language-plaintext highlighter-rouge">{{page.ability1Info}}</code>
-	  {{page.ability1Description}}</p>
+	    <p><strong>{{page.ability1Name}}</strong></p>
+	    <p>{{page.ability1Description}}	
+	  	<code class="language-plaintext highlighter-rouge">{{page.ability1Info}}</code></p>
 	  </li>
 	  <li>
-	    <p>{{page.ability2Name}}</p>
-
-	    <p><code class="language-plaintext highlighter-rouge">{{page.ability2Info}}</code>
-	  {{page.ability2Description}}</p>
+	    <p><strong>{{page.ability2Name}}</strong></p>
+	    <p>{{page.ability2Description}}	
+	  	<code class="language-plaintext highlighter-rouge">{{page.ability2Info}}</code></p>
 	  </li>
-	  <li>
-	    <p>{{page.ability3Name}}</p>
-
-	    <p><code class="language-plaintext highlighter-rouge">{{page.ability3Info}}</code>
-	  {{page.ability3Description}}</p>
+  	  <li>
+	    <p><strong>{{page.ability3Name}}</strong></p>
+	    <p>{{page.ability3Description}}	
+	  	<code class="language-plaintext highlighter-rouge">{{page.ability3Info}}</code></p>
 	  </li>
 	</ul>
 
@@ -145,76 +142,8 @@ layout: default
 	  </li>
 	</ul>
 
-	<h2 id="stats">Stats</h2>
-
-	<table>
-	  <thead>
-	    <tr>
-	      <th>Stats</th>
-	      <th>Health</th>
-	      <th>Attack</th>
-	      <th>DPS</th>
-	      <th>Speed</th>
-	    </tr>
-	  </thead>
-	  <tbody>
-	    <tr>
-	      <td>Lvl 1</td>
-	      <td>{{page.lvl1Hp}}</td>
-	      <td>{{page.lvl1Dmg}}</td>
-	      <td>{{page.lvl1Dps}}</td>
-	      <td>{{page.lvl1Speed}}</td>
-	    </tr>
-	    <tr>
-	      <td>Lvl 10</td>
-	      <td>{{page.lvl10Hp}}</td>
-	      <td>{{page.lvl10Dmg}}</td>
-	      <td>{{page.lvl10Dps}}</td>
-	      <td>{{page.lvl1Speed}}</td>
-	    </tr>
-	    <tr>
-	      <td>Lvl 20</td>
-	      <td>{{page.lvl20Hp}}</td>
-	      <td>{{page.lvl20Dmg}}</td>
-	      <td>{{page.lvl20Dps}}</td>
-	      <td>{{page.lvl1Speed}}</td>
-	    </tr>
-	    <tr>
-	      <td>Lvl 25</td>
-	      <td>{{page.lvl25Hp}}</td>
-	      <td>{{page.lvl25Dmg}}</td>
-	      <td>{{page.lvl25Dps}}</td>
-	      <td>{{page.lvl1Speed}}</td>
-	    </tr>
-	  </tbody>
-	</table>
-
-	<h2 id="upgrades">Upgrades</h2>
-
-	<table>
-	  <thead>
-	    <tr>
-	      <th>Epic</th>
-	      <th>Rare</th>
-	      <th>Special</th>
-	      <th>Common 1</th>
-	      <th>Common 2</th>
-	      <th>Common 3</th>
-	    </tr>
-	  </thead>
-	  <tbody>
-	    <tr>
-	      <td>{{page.epicMat}}</td>
-	      <td>{{page.rareMat}}</td>
-	      <td>{{page.specialMat}}</td>
-	      <td>{{page.commonMat1}} </td>
-	      <td>{{page.commonMat2}} </td>
-	      <td>{{page.commonMat3}}</td>
-	    </tr>
-	  </tbody>
-	</table>
-
 	<h2 id="tips">Tips</h2>
 
 	{{content}}
+
 </div>

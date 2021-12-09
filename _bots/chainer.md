@@ -34,6 +34,17 @@ ai2bName: "B: Multi-chain Efficiency"
 ai2aDescription: Chain cooldown reduced by 25%
 ai2bDescription: Multi-chain cooldown reduced by 20%
 
+
+ai4aName: "A: Power Slam"
+ai4bName: "B: Shockwave"
+ai4aDescription: Ground slam damage increased by 20%
+ai4bDescription: Ground slam damage area increased by 20%
+	
+ai5aName: "A: Disorienting Shockwave"
+ai5bName: "B: Ready to Chain"       
+ai5aDescription: Ground slam slows enemies by 30%
+ai5bDescription: Multi-chain starts at 50% charged
+
 ---
 
 ### Groovy
@@ -42,4 +53,4 @@ ai2bDescription: Multi-chain cooldown reduced by 20%
 - Place your choice of an AOE bot in range of chainer but farther away so it does not run away or get hurt. 
 - Charge your AOE bot’s ult and then watch the bots melt.
 
-v.1-2
+v.-3

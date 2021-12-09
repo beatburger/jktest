@@ -3,7 +3,6 @@ collections:
   bots:
     output: true
     
-# Name of your site (displayed in the header)
 title: Botpedia test
-# Short bio or description (displayed in the header)
 description: trying stuff out
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png

@@ -35,8 +35,8 @@ ai2bDescription: Multi-chain cooldown reduced by 20%
 		
 ai3aName: "C: Fortitude"
 ai3aDescription: Health increased by 20%
-ai3bName: a
-ai3bDescription: a
+ai3bName: 
+ai3bDescription: 
 	
 ai4aName: "A: Power Slam"
 ai4bName: "B: Shockwave"
@@ -56,3 +56,5 @@ ai5aDescription: Multi-chain starts at 50% charged
 - Place your choice of an AOE bot in range of chainer but farther away so it does not run away or get hurt. 
 - Charge your AOE bot’s ult and then watch the bots melt.
 
+
+v.emtpy

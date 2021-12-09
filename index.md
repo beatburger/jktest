@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 {% for bot in site.bots %}
-  <h2><a href="{{ bot.url }}"> {{ bot.name }} </a></h2>
+  <h2><a href="{{ site.baseurl }}{{ bot.url }}"> {{ bot.name }} </a></h2>
 {% endfor %}
 
 

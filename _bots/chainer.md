@@ -7,7 +7,7 @@ description: Chainer descriptioognfdnf fsgdufhdusfhuds
 Chainer
 Tank
 
-!Image[https://cdn.discordapp.com/attachments/885544735794692146/885545888360054794/chainer.png]
+![Image](https://cdn.discordapp.com/attachments/885544735794692146/885545888360054794/chainer.png)
 
 `Not the most mobile bot, but that doesn't matter when it can bring the fight to itself.`
 

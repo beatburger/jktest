@@ -44,10 +44,10 @@ ai4bName: "B: Shockwave"
 ai4aDescription: Ground slam damage increased by 20%
 ai4bDescription: Ground slam damage area increased by 20%
 
-ai5aName: wtf5A
-ai5bName: wtf5B
-ai5aDescription: WTF5A
-ai5bDescription: WTF5B
+ai5aName: "A: Disorienting Shockwave"
+ai5bName: "B: Ready to Chain"
+ai5aDescription: Ground slam slows enemies by 30%
+ai5bDescription: Multi-chain starts at 50% charged
 
 lvl1Hp: 
 lvl1Dmg: 
@@ -81,4 +81,4 @@ commonMat3:
 - Place your choice of an AOE bot in range of chainer but farther away so it does not run away or get hurt. 
 - Charge your AOE bot’s ult and then watch the bots melt.
 
-v.w4
+v.w5

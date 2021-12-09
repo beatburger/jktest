@@ -1,5 +1,5 @@
 ---
-layout: bot
+layout: default
 title: Chainer page
 name: Chainer name
 description: Chainer descriptioognfdnf fsgdufhdusfhuds

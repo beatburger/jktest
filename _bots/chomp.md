@@ -35,8 +35,8 @@ ai2bDescription: Multi-chain cooldown reduced by 20%
 		
 ai3aName: "C: Fortitude"
 ai3aDescription: Health increased by 20%
-ai3bName:
-ai3bDescription:
+ai3bName: a-
+ai3bDescription: a- 
 	
 ai4aName: "A: Power Slam"
 ai4bName: "B: Shockwave"
@@ -48,18 +48,18 @@ ai5bName: "B: Ready to Chain"
 ai5aDescription: Ground slam slows enemies by 30%
 ai5aDescription: Multi-chain starts at 50% charged
 
-lvl1Hp:
-lvl1Dmg:
-lvl1Dps:
+lvl1Hp: a-
+lvl1Dmg: a-
+lvl1Dps: a-
 lvl1Speed: 12
 
 lvl10Hp: 4009
 lvl10Dmg: 108
 lvl10Dps: 121
 
-lvl20Hp:
-lvl20Dmg:
-lvl20Dps:
+lvl20Hp: a-
+lvl20Dmg: a-
+lvl20Dps: a-
 
 lvl25Hp: 16745
 lvl25Dmg: 453
@@ -67,10 +67,10 @@ lvl25Dps: 503
 
 epicMat: Chainer Essence
 rareMat: Tank Plating
-specialMat:
-commonMat1:
-commonMat2:
-commonMat3:
+specialMat: a-
+commonMat1: a-
+commonMat2: a-
+commonMat3: a-
 
 
 ---

@@ -39,6 +39,11 @@ ai3bName: wtf3B
 ai3aDescription: WTF3A
 ai3bDescription: WTF3B
 
+ai4aName: wtf4A
+ai4bName: wtf4B
+ai4aDescription: WTF4A
+ai4bDescription: WTF4B
+
 lvl1Hp: 
 lvl1Dmg: 
 lvl1Dps: 
@@ -71,4 +76,4 @@ commonMat3:
 - Place your choice of an AOE bot in range of chainer but farther away so it does not run away or get hurt. 
 - Charge your AOE bot’s ult and then watch the bots melt.
 
-v.wtf3
+v.wtf4

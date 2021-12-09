@@ -2,12 +2,20 @@
 layout: bot
 title: Chomp page
 name: Chomp name
+
+botName: Chainer
+botDescription: Not the most mobile bot, but that doesn't matter when it can bring the fight to itself.
+botImageUrl: https://cdn.discordapp.com/attachments/885544735794692146/885545888360054794/chainer.png
+
+botType: Tank
+botRarity: Rare
+botAcquisition: Solo Arena r1000
+
 ---
 
-CHompy chompoy
+### Groovy
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+- Place chainer in the middle of most bots where his ult will grab all/the most bots possible. 
+- Place your choice of an AOE bot in range of chainer but farther away so it does not run away or get hurt. 
+- Charge your AOE bot’s ult and then watch the bots melt.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.

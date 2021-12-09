@@ -4,9 +4,48 @@ title: Chainer page
 name: Chainer name
 description: Chainer descriptioognfdnf fsgdufhdusfhuds
 ---
+Chainer
+Tank
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+!Image[https://cdn.discordapp.com/attachments/885544735794692146/885545888360054794/chainer.png]
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+`Not the most mobile bot, but that doesn't matter when it can bring the fight to itself.`
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+| Type  | Rarity | Acquisition       |
+| ----- | ------ | ----------------- | 
+| Tank  | Rare   | Solo Arena r1000  |
+
+# Abilities
+
+- **Ground Slam**
+	`100% Attack, AS: 0.9s, Range: 2`
+  
+	Strikes the ground creating a shockwave that damages nearby enemies		
+		
+
+- **Chain**
+	`Range: 3-6, Cooldown: 6s`
+  
+	Launches a magnetized chain at an enemy and pulls them towards the Chainer		
+		
+
+- **Multi-chain**
+	`Range: 12, Cooldown: 10s`
+  
+	Spins around firing chains at all visible enemies then pulls them all in together		
+		
+# AI tree
+
+| type  | Rarity | Acquisition       | type  | Rarity | Acquisition       |
+| ----- | ------ | ----------------- | ----- | ------ | ----------------- |
+| Tank  | Rare   | Solo Arena r1000  | Tank  | Rare   | Solo Arena r1000  |
+| ----- | ------ | ----------------- | ----- | ------ | ----------------- |
+| Tank  | Rare   | Solo Arena r1000  | Tank  | Rare   | Solo Arena r1000  | 
+
+Stats
+Lv1
+Lv10
+Lv20
+Lv25
+
+Multi-chain starts at 50% charged	

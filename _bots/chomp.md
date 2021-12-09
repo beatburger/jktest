@@ -1,6 +1,7 @@
 ---
 layout: bot
 title: Chomp page
+name: Chomp name
 ---
 
 CHompy chompoy

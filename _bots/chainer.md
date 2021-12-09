@@ -34,8 +34,8 @@ ai2bName: "B: Multi-chain Efficiency"
 ai2aDescription: Chain cooldown reduced by 25%
 ai2bDescription: Multi-chain cooldown reduced by 20%
 
-ai3aName: wtf3A
-ai3bName: wtf3B
+ai3aName: "C: Fortitude"
+ai3bName: Health increased by 20%
 ai3aDescription: WTF3A
 ai3bDescription: WTF3B
 
@@ -81,4 +81,4 @@ commonMat3:
 - Place your choice of an AOE bot in range of chainer but farther away so it does not run away or get hurt. 
 - Charge your AOE bot’s ult and then watch the bots melt.
 
-v.wtf5
+v.w3label

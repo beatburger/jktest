@@ -48,6 +48,31 @@ ai5bName: "B: Ready to Chain"
 ai5aDescription: Ground slam slows enemies by 30%
 ai5aDescription: Multi-chain starts at 50% charged
 
+lvl1Hp:
+lvl1Dmg:
+lvl1Dps:
+lvl1Speed: 12
+
+lvl10Hp: 4009
+lvl10Dmg: 108
+lvl10Dps: 121
+
+lvl20Hp:
+lvl20Dmg:
+lvl20Dps:
+
+lvl25Hp: 16745
+lvl25Dmg: 453
+lvl25Dps: 503
+
+epicMat: Chainer Essence
+rareMat: Tank Plating
+specialMat:
+commonMat1:
+commonMat2:
+commonMat3:
+
+
 ---
 
 ### Groovy

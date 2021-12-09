@@ -18,7 +18,7 @@ description: template helper page
 ## Abilities
 
 - **Ground Slam**
-- 
+
 	Strikes the ground creating a shockwave that damages nearby enemies
 	
 	`100% Attack, AS: 0.9s, Range: 2`		

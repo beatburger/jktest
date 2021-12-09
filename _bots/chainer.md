@@ -34,6 +34,21 @@ ai2bName: "B: Multi-chain Efficiency"
 ai2aDescription: Chain cooldown reduced by 25%
 ai2bDescription: Multi-chain cooldown reduced by 20%
 
+ai3aName: a
+ai3aDescription: a
+ai3bName: a
+ai3bDescription: a
+	
+ai4aName: a
+ai4bName: a
+ai4aDescription: a
+ai4aDescription: a
+	
+ai5aName: a
+ai5bName: a
+ai5aDescription: a
+ai5aDescription: a
+
 lvl1Hp: 
 lvl1Dmg: 
 lvl1Dps: 

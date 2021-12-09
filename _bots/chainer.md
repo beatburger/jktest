@@ -31,8 +31,8 @@ description: Chainer descriptioognfdnf fsgdufhdusfhuds
 
 - Multi-chain
 
+	Spins around firing chains at all visible enemies then pulls them all in together	
 	`Range: 12, Cooldown: 10s`
-	Spins around firing chains at all visible enemies then pulls them all in together		
 		
 # AI tree
 

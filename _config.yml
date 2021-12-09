@@ -4,6 +4,6 @@ collections:
     output: true
     
 # Name of your site (displayed in the header)
-name: Botpedia test
+title: Botpedia test
 # Short bio or description (displayed in the header)
 description: trying stuff out

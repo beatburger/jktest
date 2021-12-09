@@ -4,7 +4,6 @@ title: Chainer page
 name: Chainer name
 description: Chainer descriptioognfdnf fsgdufhdusfhuds
 ---
-
 ![Image](https://cdn.discordapp.com/attachments/885544735794692146/885545888360054794/chainer.png)
 
 `Not the most mobile bot, but that doesn't matter when it can bring the fight to itself.`
@@ -16,45 +15,50 @@ description: Chainer descriptioognfdnf fsgdufhdusfhuds
 # Abilities
 
 - Ground Slam
-	`100% Attack, AS: 0.9s, Range: 2`
 
+	`100% Attack, AS: 0.9s, Range: 2`
 	Strikes the ground creating a shockwave that damages nearby enemies		
 		
 
 - Chain
-	`Range: 3-6, Cooldown: 6s`
 
+	`Range: 3-6, Cooldown: 6s`
 	Launches a magnetized chain at an enemy and pulls them towards the Chainer		
 		
 
 - Multi-chain
-	`Range: 12, Cooldown: 10s`
 
+	`Range: 12, Cooldown: 10s`
 	Spins around firing chains at all visible enemies then pulls them all in together		
 		
 # AI tree
 
 - AI Level 1 (500xp)
+
 	| A: Stunning Chain         | B: Stunning Multi-chain          |
 	| ------------------------- | -------------------------------- |
 	| Chain stuns enemy for 2s  | Multi-chain stuns enemies for 2s |
 		
 - AI Level 2 (2000xp)	
+
 	| A: Chain Efficiency            | B: Multi-chain Efficiency           |
 	| ------------------------------ | ----------------------------------- |
 	| Chain cooldown reduced by 25%  | Multi-chain cooldown reduced by 20% |
 		
 - AI Level 3 (5000xp)
+
 	| C: Fortitude            |
 	| ----------------------- |
 	| Health increased by 20% |
 	
 - AI Level 4 (10000xp)	
+
 	| A: Power Slam                        | B: Shockwave                             |
 	| ------------------------------------ | ---------------------------------------- |
 	| Ground slam damage increased by 20%  | Ground slam damage area increased by 20% |
 	
 - AI Level 5 (20000xp)
+
 	| A: Disorienting Shockwave         | B: Ready to Chain	                |
 	| --------------------------------- | --------------------------------- |
 	| Ground slam slows enemies by 30%  | Multi-chain starts at 50% charged |

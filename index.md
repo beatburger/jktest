@@ -1,7 +1,10 @@
-'''
+---
+
+layout: default
 title: Home
 description: Community wiki for Botworld Adventure !
-'''
+
+---
 
 ## Bots
 

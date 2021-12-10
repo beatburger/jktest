@@ -2,15 +2,15 @@
 layout: bot
 title: "Chomp Page"
 name: "Chomp"
-description: "a page to create new bots"
+description: "a page about Chomp"
 
 botName: "Chomp"
-botDescription: "a page to create new bots"
-botImageUrl: ""
+botDescription: "A loyal companion who loves to shoot at enemies from a distance"
+botImageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885546877259513956/chomp.png"
 
-botType: ""
-botRarity: ""
-botAcquisition: ""
+botType: "Sniper"
+botRarity: "Common"
+botAcquisition: "i forgot"
 
 ability1Name: ""
 ability1Info: ""

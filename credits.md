@@ -10,7 +10,7 @@ description: Thank you to anyone who contributed !
 
 - Groovy: Editor in chief
 - Pix: Developer
-- Lekoi: Photoshoper, Botworld expert
 - Dimaond: Artist
+- Lekoi: Photoshoper, Botworld expert
 - Huggy: Data collector
 - ... add your name here ...

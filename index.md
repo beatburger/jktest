@@ -1,3 +1,8 @@
+'''
+title: Home
+description: Community wiki for Botworld Adventure !
+'''
+
 ## Bots
 
 {% for bot in site.bots %}

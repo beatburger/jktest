@@ -66,12 +66,12 @@ lvl25Hp: ""
 lvl25Dmg: ""
 lvl25Dps: ""
 
-epicMat: ""
-rareMat: ""
-specialMat: ""
-commonMat1: ""
-commonMat2: ""
-commonMat3: ""
+epicMat: "Chomp essence"
+rareMat: "Sniper Gyro"
+specialMat: "Matte Coating"
+commonMat1: "Sparky Wires"
+commonMat2: "Clear Oil"
+commonMat3: "Frost Fuel"
 
 ---
 

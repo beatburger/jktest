@@ -6,7 +6,7 @@ description: "a page about Chomp"
 
 botName: "Chomp"
 botDescription: "A loyal companion who loves to shoot at enemies from a distance"
-botImageUrl: "https://cdn.discordapp.com/attachments/885544735794692146/885546877259513956/chomp.png"
+botImageUrl: "https://media.discordapp.net/attachments/885544735794692146/885546877259513956/chomp.png"
 
 botType: "Sniper"
 botRarity: "Common"

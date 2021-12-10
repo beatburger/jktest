@@ -10,7 +10,7 @@ botImageUrl: "https://media.discordapp.net/attachments/885544735794692146/885546
 
 botType: "Sniper"
 botRarity: "Common"
-botAcquisition: "Random drop"
+botAcquisition: "i forgot"
 
 ability1Name: "Machine Gun"
 ability1Info: "Bullets fired: 3, Range:7.7, AS: 1.43s"
@@ -75,10 +75,12 @@ commonMat3: "Frost Fuel"
 
 ---
 
-### Suggested AI path
+### Groovy
 
-- A?C?A. AI4 is the most important choice.
+- Super tip !
+- 2nd super tip !
 
-### Notes
+### This is a test
 
-- Chomp is a trusty early bot, but quite overshadowed by every other snipers pretty soon
+- test 1
+- test 2

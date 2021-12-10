@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 <!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>{{page.title}} - Botpedia test</title>
+<title>{{page.title}} - {{site.title}}</title>
 <meta name="generator" content="Jekyll v3.9.0" />
 <meta property="og:title" content="{{page.title - Botpedia test}}" />
 <meta property="og:locale" content="en_US" />
@@ -93,12 +93,11 @@
               top: 40px;
               right: 40px;
             ">
-            Botpedia test
+            {{site.title}}
           </h1>
-          <p>trying stuff out</p>
+          <p>{{site.description}}</p>
           <hr>
-          <span class="credits left">Project maintained by <a href="https://github.com/beatburger">beatburger</a></span>
-          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
+          <span class="credits left">Project maintained by <a href="#">beatburger</a></span>
         </div>
 
         {{ content }}

@@ -3,6 +3,6 @@ collections:
   bots:
     output: true
     
-title: Botpedia test
-description: trying stuff out
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+title: Botworld Wiki
+description: Robopedia, Guides & Infos collected by the community
+logo: https://cdn.discordapp.com/emojis/918669937214640269.png

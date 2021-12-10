@@ -2,6 +2,7 @@ theme: jekyll-theme-midnight
 collections:
   bots:
     output: true
+    permalink: /:path
     
 title: Botworld Wiki
 description: Robopedia, Guides & Infos collected by the community

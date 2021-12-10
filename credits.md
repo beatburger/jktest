@@ -14,3 +14,7 @@ description: Thank you to anyone who contributed !
 - Lekoi: Photoshoper, Botworld expert
 - Huggy: Data collector
 - ... add your name here ...
+
+## Contribute
+
+[Join us on discord](https://discord.gg/FsJzvtFrgq) and ping us there !

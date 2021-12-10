@@ -66,7 +66,7 @@ lvl25Hp: ""
 lvl25Dmg: ""
 lvl25Dps: ""
 
-epicMat: "Chomp essence"
+epicMat: "Chomp Essence"
 rareMat: "Sniper Gyro"
 specialMat: "Matte Coating"
 commonMat1: "Sparky Wires"
